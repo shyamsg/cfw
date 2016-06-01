@@ -7,7 +7,7 @@ data analyses to assess the viability of using Carworth Farms White
 traits relevant to the study of human disease and psychology. This
 code repository accompanies the following publication:
 
-Parker, C.C., Gopalakrishnan, G., Carbonetto, P., Gonzales, N.M.,
+Parker, C.C., Gopalakrishnan, S., Carbonetto, P., Gonzales, N.M.,
 Leung, E, Park, Y.J., Aryee, E., Davis, J., Blizard, D.A.,
 Ackert-Bicknell, C.L., Lionikas, A., Pritchard, J.K., Palmer, A.A.
 Genome-wide association study of behavioral, physiological and gene
